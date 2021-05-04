@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @5000miles
 - 👀 I’m interested in Math and Data
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Bayesian Inference
 - 📫 How to reach me: trevorczc@gmail.com
 
 <!---
