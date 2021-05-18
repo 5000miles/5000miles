@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @5000miles
-- 👀 I’m interested in Math and Data
+- 👋 Hi, I’m Trevor
+- 👀 I’m interested in Math and Data Science
 - 🌱 I’m currently learning Bayesian Inference
+- ✨ I finished some cool projects including a Capstone, feel free to check out
 - 📫 How to reach me: trevorczc@gmail.com
 
 <!---
